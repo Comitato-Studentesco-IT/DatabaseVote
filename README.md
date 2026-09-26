@@ -1,0 +1,1 @@
+# Registro pubblico delle firme e dei voti
