@@ -1,7 +1,10 @@
-[  {
+[
+  {
     "id": "001",
     "titolo": "Annuario Scolastico",
     "sottotitolo": "In collaborazione con ANNUARIO SCOLASTICO",
     "descrizione": "Si vota per decidere se fare o no l'annuario scolastico",
-    "promotore": "Lista UNICA"
-  }]
+    "promotore": "Lista UNICA",
+    "scadenza": "2026-10-23T23:59:59.000Z"
+  }
+]
