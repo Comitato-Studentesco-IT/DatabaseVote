@@ -334,5 +334,11 @@
     "timestamp": "2026-10-17T18:36:51.953Z",
     "dominio": "studenti.iisfalcone-righi.edu.it",
     "scelta": "no"
+  },
+  {
+    "verifier": "caf8b6760c39bc298bd2c6ad25b8ca3c",
+    "timestamp": "2026-10-17T18:38:15.357Z",
+    "dominio": "studenti.iisfalcone-righi.edu.it",
+    "scelta": "si"
   }
 ]
